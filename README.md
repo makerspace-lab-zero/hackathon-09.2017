@@ -4,6 +4,18 @@ Video via Alex https://www.youtube.com/watch?v=ETSe2Z4Oa2M
 Photos via 哥伦布 https://www.flickr.com/photos/szdiy/sets/72157687156408223
 
 ***
+
+Thanks to our sponsors we had a great Hackathon.
+
+• Makersorigin 
+http://makersorigin.com/
+• Seeedstudio.com
+https://www.seeedstudio.com/
+
+Also thanks to Troublemaker
+ https://troublemaker.site/
+
+***
 # Projects and teams
 
 This is a description of the project ideas for the event and their participants. 
