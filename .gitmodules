@@ -1,6 +1,9 @@
+[submodule "lexa-switch"]
+	path = lexa-switch
+	url = git@github.com:lab0x0/alexa-switch.git
 [submodule "lab-zero-introductor/labzero_diy"]
 	path = lab-zero-introductor/labzero_diy
-	url = git@github.com:zend/labzero_diy.git
+	url = git@github.com:zend/labzero_diy.git	
 [submodule "duo/frontend"]
 	path = duo/frontend
 	url = git@github.com:szdiy/duo.git
