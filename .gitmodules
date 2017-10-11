@@ -1,6 +1,3 @@
-[submodule "lexa-switch"]
-	path = lexa-switch
-	url = git@github.com:lab0x0/alexa-switch.git
 [submodule "lab-zero-introductor/labzero_diy"]
 	path = lab-zero-introductor/labzero_diy
 	url = git@github.com:zend/labzero_diy.git	
@@ -13,3 +10,7 @@
 [submodule "duo/hardware"]
 	path = duo/hardware
 	url = git@github.com:szdiy/duo.git
+[submodule "alexa-switch"]
+	path = alexa-switch
+	url = git@github.com:lab0x0/alexa-switch.git
+	branch = master
